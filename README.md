@@ -11,6 +11,8 @@ A comprehensive MATLAB application for calculating Rock Mass Rating (RMR) specif
 - **Joint Condition** evaluation with predefined categories
 - **Groundwater Condition** assessment
 - **Joint Orientation Adjustment** specifically for tunnel applications
+![image](https://github.com/user-attachments/assets/76228872-5a8c-4883-ade8-704d2dcdbb27)
+
 
 ### 🎯 **Tunnel-Specific Calculations**
 - Advanced joint orientation analysis considering tunnel azimuth
