@@ -105,25 +105,11 @@ A comprehensive MATLAB application for calculating Rock Mass Rating (RMR) specif
 - Research and development
 - Professional certification preparation
 
-## File Structure
-
-```
-RMR-Calculator/
-├── Rock_Mass_Rating_Matlab_Code.m    # Main application file
-├── README.md                         # This documentation
-├── LICENSE                          # License information
-└── examples/                        # Example calculations
-    ├── tunnel_example_1.txt
-    └── tunnel_example_2.txt
-```
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests to improve the calculator's functionality.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
