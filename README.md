@@ -20,6 +20,8 @@ A comprehensive MATLAB application for calculating Rock Mass Rating (RMR) specif
 - Integration with specialized orientation adjustment algorithms
 - Real-time calculation of orientation-dependent stability factors
 
+![image](https://github.com/user-attachments/assets/2d0cdce9-9a07-45e9-b70f-9d921560d6eb)
+
 ### 🖥️ **User-Friendly Interface**
 - Clean, professional GUI with color-coded results
 - Real-time parameter updates and calculations
