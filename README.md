@@ -21,6 +21,8 @@ A comprehensive MATLAB application for calculating Rock Mass Rating (RMR) specif
 - Real-time calculation of orientation-dependent stability factors
 
 ![image](https://github.com/user-attachments/assets/2d0cdce9-9a07-45e9-b70f-9d921560d6eb)
+Note: ** 35 degree is a threshold assumption made in this code to definel a plane is perpendicular or parallel to the tunnel**
+![image](https://github.com/user-attachments/assets/243f0ec3-6435-4679-9089-8b62cf4c9a08)
 
 ### 🖥️ **User-Friendly Interface**
 - Clean, professional GUI with color-coded results
