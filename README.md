@@ -22,6 +22,7 @@ A comprehensive MATLAB application for calculating Rock Mass Rating (RMR) specif
 
 ![image](https://github.com/user-attachments/assets/2d0cdce9-9a07-45e9-b70f-9d921560d6eb)
 
+RMR Joint Orientation Adjustment Table
 ![image](https://github.com/user-attachments/assets/0b490672-32b8-49f1-bbe7-5ffa4b3ba82c)
 
 
